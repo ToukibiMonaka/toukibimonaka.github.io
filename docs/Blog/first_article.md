@@ -1,8 +1,8 @@
 ---
 layout: default
 title: first article
+parent: Blog
 mathjax: true
-nav_order: 1
 description: "This is the first article"
 ---
 
