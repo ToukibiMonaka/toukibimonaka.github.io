@@ -6,3 +6,6 @@ description: "This is the first article"
 ---
 
 aaa
+$$
+    x=y
+$$
