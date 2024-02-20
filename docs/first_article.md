@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: first article
 mathjax: true
 nav_order: 1
