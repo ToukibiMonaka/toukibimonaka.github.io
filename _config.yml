@@ -4,6 +4,9 @@ description: Toukibi Monaka のページの説明
 theme: just-the-docs
 color_scheme: dark
 
+compress_html:
+  blanklines: true
+
 url: https://just-the-docs.github.io
 
 aux_links:
