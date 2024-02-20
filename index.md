@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: home
 nav_order: 0
 description: "Home-description"
 ---
