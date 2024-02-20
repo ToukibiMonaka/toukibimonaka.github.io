@@ -7,3 +7,5 @@ description: "Home-description"
 
 # Home
 見なかったふりをしてください．
+
+検索機能は英語のみ機能するようです．
