@@ -1,8 +1,8 @@
 ---
 layout: default
 title: second article
-parent: Blog
-nav_order: 0
+parent: notes
+nav_order: 2
 description: "This is the second article"
 ---
 
