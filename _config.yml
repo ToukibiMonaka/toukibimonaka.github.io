@@ -1,12 +1,8 @@
-title: Toukibi Monaka のページ
-description: Toukibi Monaka のページの説明
+title: TM-weblog
+description: Toukibi Monaka のページ
 
 theme: just-the-docs
 color_scheme: dark
-
-url: https://just-the-docs.github.io
-aux_links:
-  Twitter: https://twitter.com/
 
 compress_html:
   blanklines: true
