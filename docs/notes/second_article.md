@@ -2,6 +2,6 @@
 layout: default
 title: second article
 parent: notes
-nav_order: 2
+child_nav_order: 2
 ---
 

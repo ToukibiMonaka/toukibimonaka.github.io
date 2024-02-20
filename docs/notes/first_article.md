@@ -2,7 +2,7 @@
 layout: default
 title: first article
 parent: notes
-nav_order: 1
+child_nav_order: 1
 mathjax: true
 ---
 
