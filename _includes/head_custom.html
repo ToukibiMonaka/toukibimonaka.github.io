@@ -5,22 +5,4 @@
     <script type="text/javascript" async 
         src="{{ site.mathjax.source }}">
     </script>
-    <script>
-        MathJax = {
-            tex: {
-                inlineMath: [                 // start/end delimiter pairs for in-line math
-                    ['$', '$'],
-                    ['\\(', '\\)'],
-                ],
-                displayMath: [                // start/end delimiter pairs for display math
-                    ['$$', '$$'],
-                    ['\\[', '\\]']
-                ],
-                processEscapes: true,
-                macros: {
-                    bm: ["\\boldsymbol{#1}", 1],
-                },
-            }
-        };
-    </script>
 {% endif %}
