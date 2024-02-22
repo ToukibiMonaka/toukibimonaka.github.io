@@ -3,6 +3,7 @@ layout: default
 title: Tight binding model
 parent: notes
 child_nav_order: 2
+mathjax : true
 ---
 ## 固体の模型
 ### 結晶
